@@ -1,0 +1,11 @@
+.headers{
+	-fx-border-color:#CDCDCD;
+	-fx-background-color:#DDDDDD;
+}
+.columns{
+	-fx-border-color:#CCCCCC;
+	-fx-background-color:#FFFFFF;
+}
+.footer{
+	-fx-background-color:#DDDDDD;
+}
